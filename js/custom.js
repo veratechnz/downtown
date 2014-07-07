@@ -12,7 +12,7 @@ $(document).ready(function() {
 
 	var $colorsHTML =
 	'<div class="styleSwitcher">' +
-	'<a href="#" id="showHideSwitcher"><i class="icon-cog"></i></a>' +
+	//'<a href="#" id="showHideSwitcher"><i class="icon-cog"></i></a>' +
 	'<div id="switcherContent">' +
 	'<h1>style switcher</h1><ul class="switcher">' +
 	'<li><a href="css/orange.css" style="background:#F86D18">Orange</a></li>' +
