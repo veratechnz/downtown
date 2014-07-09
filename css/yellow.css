@@ -265,7 +265,7 @@ ul.quickMenu li a:hover {color:#555;}
 
 	#mainMenu .navbar-nav li {border-bottom:none;}
 	
-	#mainMenu .navbar-nav ul li a {border-bottom:20px solid #eee;}
+	#mainMenu .navbar-nav ul li a {border-bottom:1px solid #eee;}
 }
 
 @media(min-width:992px){}
