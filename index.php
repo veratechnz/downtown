@@ -78,72 +78,9 @@
 			<!-- services -->
 			<?php include 'inc/services.inc.php';?>
 			<!-- services -->
-			<!-- tabs & list -->
-			<?php include 'inc/info.inc.php';?>
-			<!-- tabs & list -->
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12 mb30">
-						<hr class="lineArrow">
-					</div>
-				</div>
-			</div>
-			
 				<!-- call to action -->
 				<!-- footer -->
-				<footer id="footerWrapper" class="footer2">
-					<section id="mainFooter">
-						<div class="container">
-							<div class="row">
-								<div class="col-md-3 col-sm-6">
-									<div class="footerWidget">
-										<p><a href="http://www.little-neko.com" title="Little Neko, website template creation">Downtown Parking</a> is a web design and development studio. We build responsive HTML5 and CSS3 templates, integrating best web design practices and up-to-date web technologies to create great user experiences. We love what we do and we hope you do too! </p>
-									</div>
-								</div>
-								<div class="col-md-3 col-sm-6">
-									<div class="footerWidget">
-
-										<h3>Latest works</h3>
-										<ul class="list-unstyled worksList">
-											<li><a href="#" class="tips" title="" data-original-title="Little Neko work"><img src="images/theme-pics/works1.jpg" alt="works"></a></li>
-											<li><a href="#" class="tips" title="" data-original-title="Little Neko work"><img src="images/theme-pics/works2.jpg" alt="works"></a></li>
-											<li><a href="#" class="tips" title="" data-original-title="Little Neko work"><img src="images/theme-pics/works3.jpg" alt="works"></a></li>
-											<li><a href="#" class="tips" title="" data-original-title="Little Neko work"><img src="images/theme-pics/works4.jpg" alt="works"></a></li>
-											<li><a href="#" class="tips" title="" data-original-title="Little Neko work"><img src="images/theme-pics/works5.jpg" alt="works"></a></li>
-											<li><a href="#" class="tips" title="" data-original-title="Little Neko work"><img src="images/theme-pics/works6.jpg" alt="works"></a></li>
-
-										</ul>
-									</div>
-								</div>
-								<div class="col-md-3 col-sm-6">
-									<div class="footerWidget">
-
-										<h3>Info</h3>
-										<ul class="list-unstyled iconList">
-											<li><a href="#">Privacy Policy</a></li>
-											<li><a href="#">Disclaimer</a></li>
-											<li><a href="#">Terms & Conditions</a></li>
-										</ul>
-									</div>
-								</div>
-								<div class="col-md-3 col-sm-6">
-									<div class="footerWidget">
-
-										<h3>Contact</h3>
-										<address>
-											<p>
-												<i class="icon-location"></i>&nbsp;77 Mass. Ave., E14/E15<br>
-												Seattle, MA 02139-4307 USA <br>
-												<i class="icon-phone"></i>&nbsp;615.987.1234 <br>
-												<i class="icon-mail-alt"></i>&nbsp;<a href="mailto:little@little-neko.com">info@downtownparking.co.nz</a>
-											</p>
-										</address>
-									</div>
-								</div>
-							</div>
-						</div>
-					</section>
-				</footer>
+			<?php include 'inc/footer.inc.php';?>
 				<!-- End footer -->
 			</div>
 			<!-- global wrapper -->

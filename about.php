@@ -19,9 +19,7 @@
 							<h1>About</h1>
 						<ul class="breadcrumb visible-md visible-lg">
 								<li><a href="index.html">Home</a></li>
-								<li><a href="template-menu-left.html">Templates</a></li>
-								<li><a href="template-menu-left.html">Sidebar</a></li>
-								<li class="active">Menu left</li>
+								<li><a href="template-menu-left.html">About</a></li>
 							</ul>
 						</div>
 					</div>
@@ -42,70 +40,24 @@
 									<div class="imgBorder"><img src="images/auckland-parking-a.jpg" alt="SEATTLE website template" class="img-responsive" /> </div>
 								</div>
 								<div class="col-md-8">
-									<h3>Pellentesque libero est, sagittis eget vestibulum ut</h3>
-									<p>Citipark is the only 100% locally and family owned, private parking operator in New Zealand. Specialists in the Auckland market, we aim to deliver quality services and comprehensive car park management from small sites, to much larger facilities.</p><p> The broad and significant experience of our executive ensures innovation, ease of use, and customer service are always at the forefront of our business.</p>
+									<h3>A local and family owner parking operator:</h3>
+									<p>Downtown Parking is the only 100% locally and family owned, private parking operator in New Zealand. Specialists in the Auckland market, we aim to deliver quality services and comprehensive car park management from small sites, to much larger facilities.</p><p> The broad and significant experience of our executive ensures innovation, ease of use, and customer service are always at the forefront of our business.</p>
 						</section>
 						<!--end page content-->
 					</div>
 				</div>
 			</section>
-							<!-- tabs & list -->
-					<?php include 'inc/info.inc.php';?>
-					<!-- tabs & list -->
+		<!-- tabs & list -->
+		<?php include 'inc/info.inc.php';?>
+		<!-- tabs & list -->
 		<!-- services -->
 		<?php include 'inc/services.inc.php';?>
 		<!-- services -->
 		</section>
 		<!-- content -->
 		<!-- footer -->
-		<footer id="footerWrapper">
-			<section id="mainFooter">
-				<div class="container">
-					<div class="row">
-						<div class="col-sm-6">
-							<div class="footerWidget">
-								<img src="images/neko-logo.png" alt="latest Little Neko news" id="footerLogo">
-								<p><a href="http://www.little-neko.com" title="Little Neko, website template creation">Little Neko</a> is a web design and development studio. We build responsive HTML5 and CSS3 templates, integrating best web design practices and up-to-date web technologies to create great user experiences. We love what we do and we hope you do too! </p>
-							</div>
-						</div>
-						<div class="col-sm-3">
-							<div class="footerWidget">
-
-								<h3>Little NEKO</h3>
-								<address>
-									<p> <i class="icon-location"></i>&nbsp;77 Mass. Ave., E14/E15<br>
-										Seattle, MA 02139-4307 USA <br>
-										<i class="icon-phone"></i>&nbsp;615.987.1234 <br>
-										<i class="icon-mail-alt"></i>&nbsp;<a href="mailto:little@little-neko.com">little@little-neko.com</a> </p>
-									</address>
-								</div>
-							</div>
-							<div class="col-sm-3">
-								<div class="footerWidget">
-									<h3>Follow us, we are social</h3>
-									<ul class="socialNetwork">
-										<li><a href="#" class="tips" title="follow me on Facebook"><i class="icon-facebook-1 iconRounded"></i></a></li>
-										<li><a href="#" class="tips" title="follow me on Twitter"><i class="icon-twitter-bird iconRounded"></i></a></li>
-										<li><a href="#" class="tips" title="follow me on Google+"><i class="icon-gplus-1 iconRounded"></i></a></li>
-										<li><a href="#" class="tips" title="follow me on Linkedin"><i class="icon-linkedin-1 iconRounded"></i></a></li>
-										<li><a href="#" class="tips" title="follow me on Dribble"><i class="icon-dribbble iconRounded"></i></a></li>
-									</ul>     
-								</div>
-							</div>
-						</div>
-					</div>
-				</section>
-				<section  id="footerRights">
-					<div class="container">
-						<div class="row">
-							<div class="col-md-12">
-								<p>Copyright © 2014 <a href="http://www.little-neko.com" target="blank">Little NEKO</a> / All rights reserved.</p>
-							</div>
-						</div>
-					</div>
-				</section>
-			</footer>
-			<!-- End footer -->
+		<?php include 'inc/footer.inc.php';?>
+		<!-- End footer -->
 		</div>
 		<!-- global wrapper -->
 	<!-- End Document 

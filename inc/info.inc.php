@@ -1,13 +1,14 @@
 	<!-- tabs & list -->
-			<section class="pt40 pb40">
-				<div class="container">
-					<div class="row">
+		<section class="pt40 pb40">
+			<div class="container">
+				<div class="row">
+					<div class=" col-md-9 col-md-offset-3">
 						<div class="col-md-6" data-nekoanim="fadeInUp" data-nekodelay="0">
 							<ul class="nav nav-tabs" id="myTab">
 								<li class="active"><a href="#homeTab" data-toggle="tab">Home</a></li>
-								<li><a href="#profile" data-toggle="tab">Profile</a></li>
-								<li><a href="#messages" data-toggle="tab">Messages</a></li>
-								<li><a href="#settings" data-toggle="tab">Settings</a></li>
+								<li><a href="#profile" data-toggle="tab">About</a></li>
+								<li><a href="#messages" data-toggle="tab">Car Parks</a></li>
+								<li><a href="#settings" data-toggle="tab">Contact</a></li>
 							</ul>
 							<div class="tab-content">
 								<!-- tab 1 -->
@@ -83,29 +84,30 @@
 							</div>
 						</div>
 						<div class="col-md-6" data-nekoanim="fadeInUp" data-nekodelay="50">
-							<h2>Why you should choose Downtown Parking</h2>
+							<h2>Reasons to choose Downtown Parking:</h2>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 								tempor incididunt ut labore et dolore magna aliqua.
 							</p>
 							<div class="row">
 								<div class="col-md-6">
 									<ul class="list-unstyled iconList">
-										<li>Build with Bootstrap 3</li>
-										<li>Mobile first design</li>
-										<li>10 colors schemes</li>
+										<li>Reason 1</li>
+										<li>Reason 2</li>
+										<li>Reason 3</li>
 
 									</ul>
 								</div>
 								<div class="col-md-6">
 									<ul class="list-unstyled iconList">
-										<li>Clean and well commented code</li>
-										<li>Smart Neko CSS and JS components</li>
-										<li>Fully responsive</li>
+										<li>Reason 4</li>
+										<li>Reason 5</li>
+										<li>Reason 6</li>
 									</ul>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
-			</section>
+			</div>
+		</section>
 			<!-- tabs & list -->
