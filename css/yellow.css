@@ -168,7 +168,7 @@ ul.iconsList li a:hover, ul.iconsList i {color:#FAA21A}
 
 .btn-primary {
 	background: #FAA21A ;
-	border-bottom-color:#ffd829;
+	border-bottom-color:#FAA21A;
 	color: #FFFFFF!important;
 }
 .btn-info {
@@ -225,7 +225,7 @@ ul.quickMenu li a:hover {color:#555;}
 
 #mainMenu .navbar-nav li.last{border-bottom:none !important;}
 
-.navbar-nav > li > a > i, .navbar-default .navbar-nav > li > a {color:#939597;}
+.navbar-nav > li > a > i, .navbar-default .navbar-nav > li > a {color:#5b5b5b;}
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, #resMainMenu li.active>a {
 	color:#FAA21A;
@@ -364,6 +364,7 @@ nav#subnav ul li a.active, nav#subnav ul li a:hover{
 .flexslider .flex-direction-nav a {
 background: #FAA21A;
 border-bottom: 4px solid #322F31;
+border-radius: 4px;
 }
 
 .flex-control-paging li a {
@@ -384,16 +385,17 @@ border-bottom: 4px solid #322F31;
     color: #FFFFFF;
     text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.33);
     background:#FAA21A;
+    border-radius: 4px;
 }
 
 .flexslider h2 {
     background-color:#222;
     color: #FFFFFF;
+    border-radius: 4px;
 }
 
 .flexslider .caption p {
     color: #fff;
-    font-weight: bold;
 }
 
 

@@ -28,6 +28,7 @@
 	<link type="text/css" id="colors" rel="stylesheet" href="css/yellow.css">
 	<link type="text/css" rel="stylesheet" href="css/custom.css">
 	<!-- icon fonts -->
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 	<link type="text/css" rel="stylesheet" href="font-icons/custom-icons/css/custom-icons.css">
 	<link type="text/css" rel="stylesheet" href="font-icons/custom-icons/css/custom-icons-ie7.css">
 	<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
@@ -45,7 +46,7 @@
 	================================================== -->
 		<!-- globalWrapper -->
 	<div id="globalWrapper" >
-		<header class="navbar-fixed-top">			
+		<header class="navbar-fixed-top nav-border">			
 			<!-- header -->
 			<div id="mainHeader" role="banner">
 				<div class="container newwidth">

@@ -34,7 +34,7 @@
 						<!-- page content-->
 						<section class="col-md-9">
 							<h2>About</h2>
-							<p class="mb30"> <strong> Quisque ut auctor lorem. Curabitur at lobortis nulla. Sed tincidunt, orci sit amet varius ornare, velit mi hendrerit purus, eget tempus ipsum felis vulputate metus. Praesent odio felis, vestibulum sit amet adipiscing quis, adipiscing </strong> </p>
+							<p class="mb30"> <strong> <i>"The broad and significant experience of our executive ensures innovation, ease of use, and customer service are always at the forefront of our business."</i></strong> </p>
 							<div class="row mb15">
 								<div class="col-md-4">
 									<div class="imgBorder"><img src="images/auckland-parking-a.jpg" alt="SEATTLE website template" class="img-responsive" /> </div>

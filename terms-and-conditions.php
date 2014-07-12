@@ -16,10 +16,10 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
-							<h1>About</h1>
+							<h1>Terms & Conditions</h1>
 						<ul class="breadcrumb visible-md visible-lg">
-								<li><a href="index.html">Home</a></li>
-								<li><a href="template-menu-left.html">About</a></li>
+								<li><a href="# ">Home</a></li>
+								<li><a href="#">Terms & Conditions</a></li>
 							</ul>
 						</div>
 					</div>
@@ -64,18 +64,37 @@
 							<h3 class="topmargin">RESPONSIBILITY FOR DAMAGE</h3>
 							<p>You are liable for any damage to the car park caused by you or your vehicle.</p>
 							<p>You agree to indemnity us in respect of any claim made against us arising from your use of the carpark or the use of the carpark by anyone else with your authority.</p>
-							<h3 class="topmargin">RESPONSIBILITY FOR DAMAGE</h3>
-							<p>You are liable for any damage to the car park caused by you or your vehicle.</p>
+							<h3 class="topmargin">RIGHT TO MOVE VEHICLE</h3>
+							<p>We have the right to move any vehicle at our absolute discretion.</p>
+							<p>We accept no liability for any claim for loss or damage caused by such move.</p>
+							<h3 class="topmargin">MISCELLANEOUS</h3>
+							<p>You must provide us with your full name and address if asked by us.</p>
+							<p>Nothing in these Terms and Conditions is intended to have the effect of contracting out of the provisions of the Consumer Guarantees Act 1993, except to the extent permitted by that Act. When you use the car park for business purposes, the Consumer Guarantees Act 1993 shall not apply.</p>
+							<p>No one is authorised to amend these Terms and Conditions on our behalf.</p>
 							<p>You agree to indemnity us in respect of any claim made against us arising from your use of the carpark or the use of the carpark by anyone else with your authority.</p>
-							<h3 class="topmargin">RESPONSIBILITY FOR DAMAGE</h3>
-							<p>You are liable for any damage to the car park caused by you or your vehicle.</p>
-							<p>You agree to indemnity us in respect of any claim made against us arising from your use of the carpark or the use of the carpark by anyone else with your authority.</p>
-							<h3 class="topmargin">RESPONSIBILITY FOR DAMAGE</h3>
-							<p>You are liable for any damage to the car park caused by you or your vehicle.</p>
-							<p>You agree to indemnity us in respect of any claim made against us arising from your use of the carpark or the use of the carpark by anyone else with your authority.</p>
-							<h3 class="topmargin">RESPONSIBILITY FOR DAMAGE</h3>
-							<p>You are liable for any damage to the car park caused by you or your vehicle.</p>
-							<p>You agree to indemnity us in respect of any claim made against us arising from your use of the carpark or the use of the carpark by anyone else with your authority.</p>
+							<h3 class="topmargin">BREACH</h3>
+							<p>In the event that you are in breach of the above Terms and Conditions, you agree that you are parking unlawfully and:We may issue a Parking Breach Notice requiring you to pay, within 21 days, an Invalid Parking Fee plus an Enforcement Administration Fee for the cost of enforcing the Terms and Conditions of this car park and issuing this Parking Breach Notice.</p>
+							<p>If you are issued a Parking Breach Notice and you do not pay the sums specified therein within 21 days of date of the date of issue of the Parking Breach Notice, then we will send an additional Reminder Notice and you agree to pay the further sum to cover our administration costs.</p>
+							<p>If you are issued a Reminder Notice and you do not pay the sums specified therein within 30 days of the issue date of the original Parking Breach Notice you agree to pay:
+							<ul>
+								<li>The cost of the debt passing to our debt collection agency; and</li>
+								<li>Any solicitor/client costs incurred by us in enforcing payment of the money owing by you.</li>
+								<li>We may apply a wheel clamp to your vehicle and/or remove your vehicle from the Carpark by having it towed at your risk and expense.</li>
+								<li>We may clamp and/or hold your vehicle until all outstanding debts (including the Clamp/Towing Release Fee) have been paid.</li>
+								<li>We may make a charge to your credit card in the amount of any outstanding debts (including the Clamp/Towing Release Fee).</li>
+							</ul>
+							</p>
+							<h3 class="topmargin">INTERPRETATION</h3>
+							<p>To avoid any confusion as to the meaning of these Terms and Conditions:</p>
+							<ul>
+								<li>“claim” includes any claim for damage, loss or compensation and any demand, remedy, liability or action.</li>
+								<li>“damage” includes direct, indirect, consequential and special damage.</li>
+								<li>“outstanding debts” includes previous unpaid parking fees and/or unpaid enforcement notices.</li>
+								<li>“vehicle” includes its accessories and contents.</li>
+								<li>“we” and “us” means Citipark Limited and includes any of its employees, agents and independent contractors.</li>
+								<li>“you” includes both the driver and owner of a vehicle entering this car park.</li>
+								<li>“your vehicle” means the vehicle which you are driving, regardless of whether it is owned by you.</li>
+							</ul>
 							</div>
 						</section>
 						<!--end page content-->

@@ -34,14 +34,11 @@
 						<!-- page content-->
 						<section class="col-md-9">
 							<h2>Car Park Locations</h2>
-							<p class="mb30"> <strong> Quisque ut auctor lorem. Curabitur at lobortis nulla. Sed tincidunt, orci sit amet varius ornare, velit mi hendrerit purus, eget tempus ipsum felis vulputate metus. Praesent odio felis, vestibulum sit amet adipiscing quis, adipiscing </strong> </p>
 							<div class="row mb15">
 								<div class="col-md-4">
 									<div class="imgBorder"><img src="images/auckland-parking-a.jpg" alt="SEATTLE website template" class="img-responsive" /> </div>
 								</div>
-								<div class="col-md-8">
-									<h3>A local and family owner parking operator:</h3>
-									<p>Downtown Parking is the only 100% locally and family owned, private parking operator in New Zealand. Specialists in the Auckland market, we aim to deliver quality services and comprehensive car park management from small sites, to much larger facilities.</p><p> The broad and significant experience of our executive ensures innovation, ease of use, and customer service are always at the forefront of our business.</p>
+								<div class="col-md-8 text-center"><p class="biggie"><i>Please check again soon.</i></p></div>
 						</section>
 						<!--end page content-->
 					</div>

@@ -16,10 +16,10 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
-							<h1>About</h1>
+							<h1>Privacy Policy</h1>
 						<ul class="breadcrumb visible-md visible-lg">
-								<li><a href="index.html">Home</a></li>
-								<li><a href="template-menu-left.html">Privacy Policy</a></li>
+								<li><a href="#">Home</a></li>
+								<li><a href="#">Privacy Policy</a></li>
 							</ul>
 						</div>
 					</div>

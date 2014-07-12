@@ -18,11 +18,14 @@
 
 								<h3 class="numargin">Downtown Parking</h3>
 								<address>
-									<p> <i class="icon-location"></i>&nbsp;77 Mass. Ave., E14/E15
-										Seattle<br> 
-										MA 02139-4307 USA <br>
-										<i class="icon-phone"></i>&nbsp;615.987.1234 
-										<i class="icon-mail-alt"></i>&nbsp;<a href="mailto:little@little-neko.com">little@little-neko.com</a> </p>
+									<p> <i class="icon-location"></i>&nbsp;9/70 Shortland Street
+									Shortland Chambers Building
+									Auckland 1010<br>
+									PO Box 3413
+									Shortland Street
+									Auckland 1140
+										<i class="icon-phone"></i>&nbsp;+64 09 379 0301 
+										<i class="icon-mail-alt"></i>&nbsp;<a href="mailto:admin@citipark.co.nz">admin@citipark.co.nz</a> </p>
 									</address>
 								</div>
 							</div>
@@ -30,9 +33,9 @@
 								<div class="footerWidget">
 									<h3 class="numargin">Company Info</h3>
 									<ul>
-									  	<li><a href="">Privacy Policy</a></li>
-									  	<li><a href="">Disclaimer</a></li>
-									  	<li><a href="">Terms & Conditions</a></li>
+									  	<li class="company-links"><a href="privacy-policy.php">Privacy Policy</a></li>
+									  	<li class="company-links"><a href="disclaimer.php">Disclaimer</a></li>
+									  	<li class="company-links"><a href="terms-and-conditions.php">Terms & Conditions</a></li>
 									</ul>  
 								</div>
 							</div>

@@ -22,41 +22,42 @@
 								<h1>Park With Us</h1>
 							</div>
 							<div class="element1-2" data-animation="fadeInRightBig">
-								<h2>Park With Us</h2>
+								<h2>100% New Zealand Owned</h2>
 							</div>
 							<div class="element1-3  hidden-xs" data-animation="fadeInRightBig">
-								<p>Loaded with exclusive Neko CSS Framework features and a couple of great plugins that extends the power of Boostrap 3</p>
+								<p><i>"Quality services & comprehensive car park management."</i></p>
 							</div>
-							<div class="element1-4" data-animation="fadeInRightBig"><a href="#" class="btn btn-primary">Get started now!</a></div>
+							<div class="element1-4" data-animation="fadeInRightBig"><a href="#" class="btn btn-primary">Contact Us</a></div>
 						</div>
 					</li>
-					<li class="slideN1"> <img src="images/slider/flex/flex-slide3.jpg" alt="pic 3"/>
+					<li class="slideN1"> 
+						<img src="images/slider/flex/flex-slide3.jpg" alt="pic 3"/>
 						<div class="caption Left marginlefty">
 							<div class="element1-1" data-animation="fadeInRightBig">
 								<h1>Park With Us</h1>
 							</div>
 							<div class="element1-2" data-animation="fadeInRightBig">
-								<h2>Park With Us</h2>
+								<h2>100% New Zealand Owned</h2>
 							</div>
 							<div class="element1-3  hidden-xs" data-animation="fadeInRightBig">
-								<p>Loaded with exclusive Neko CSS Framework features and a couple of great plugins that extends the power of Boostrap 3</p>
+								<p><i>"Quality services & comprehensive car park management."</i></p>
 							</div>
-							<div class="element1-4" data-animation="fadeInRightBig"><a href="#" class="btn btn-primary">Get started now!</a></div>
+							<div class="element1-4" data-animation="fadeInRightBig"><a href="#" class="btn btn-primary">Contact Us</a></div>
 						</div>
 					</li>
-					<li class="slideN2">
+					<li class="slideN2"> 
 						<img src="images/slider/flex/flex-slide2.jpg" alt="pic 2"/>
-						<div class="caption right">
-							<div class="element1-1" data-animation="fadeInLeftBig">
+						<div class="caption Left marginlefty">
+							<div class="element1-1" data-animation="fadeInRightBig">
 								<h1>Park With Us</h1>
 							</div>
-							<div class="element1-2" data-animation="fadeInLeftBig">
-								<h2>Park With Us</h2>
+							<div class="element1-2" data-animation="fadeInRightBig">
+								<h2>100% New Zealand Owned</h2>
 							</div>
-							<div class="element1-3  hidden-xs" data-animation="fadeInLeftBig">
-								<p>Loaded with exclusive Neko CSS Framework features and a couple of great plugins that extends the power of Boostrap 3</p>
+							<div class="element1-3  hidden-xs" data-animation="fadeInRightBig">
+								<p><i>"Quality services & comprehensive car park management."</i></p>
 							</div>
-							<div class="element1-4" data-animation="fadeInLeftBig"><a href="#" class="btn btn-primary">Get started now!</a></div>
+							<div class="element1-4" data-animation="fadeInRightBig"><a href="#" class="btn btn-primary">Contact Us</a></div>
 						</div>
 					</li>
 				</ul>				
@@ -69,7 +70,7 @@
 					<div class="row">
 						<div class="span12 text-center">
 							<h1>Welcome To Downtown Parking</h1>
-							<h2 class="subTitle">Another Premium Website Template, built with love by Little Neko</h2>
+							<h2 class="subTitle">100% locally and family owned, private parking operator in New Zealand. </h2>
 
 						</div>
 					</div>
