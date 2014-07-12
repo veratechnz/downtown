@@ -17,7 +17,7 @@
 				<ul class="slides sliderWrapper">
 					<li class="slideN0">
 						<img src="images/slider/flex/flex-slide1.jpg" alt="pic 1"/>
-						<div class="caption right">
+						<div class="caption Left marginlefty">
 							<div class="element1-1" data-animation="fadeInRightBig">
 								<h1>Park With Us</h1>
 							</div>
@@ -31,7 +31,7 @@
 						</div>
 					</li>
 					<li class="slideN1"> <img src="images/slider/flex/flex-slide3.jpg" alt="pic 3"/>
-						<div class="caption right">
+						<div class="caption Left marginlefty">
 							<div class="element1-1" data-animation="fadeInRightBig">
 								<h1>Park With Us</h1>
 							</div>
@@ -46,7 +46,7 @@
 					</li>
 					<li class="slideN2">
 						<img src="images/slider/flex/flex-slide2.jpg" alt="pic 2"/>
-						<div class="caption Left marginlefty">
+						<div class="caption right">
 							<div class="element1-1" data-animation="fadeInLeftBig">
 								<h1>Park With Us</h1>
 							</div>
