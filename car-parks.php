@@ -16,10 +16,10 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
-							<h1>About</h1>
+							<h1>Car Parks</h1>
 						<ul class="breadcrumb visible-md visible-lg">
-								<li><a href="index.html">Home</a></li>
-								<li><a href="template-menu-left.html">About</a></li>
+								<li><a href="#">Home</a></li>
+								<li><a href="#">Car Parks</a></li>
 							</ul>
 						</div>
 					</div>
@@ -32,14 +32,15 @@
 					<?php include 'inc/sidebar.inc.php';?>
 					<!-- End Sidebar -->
 						<!-- page content-->
-						<section class="col-md-9">
+						<section class="col-md-9 boardbottom">
 							<h2>Car Park Locations</h2>
-							<div class="row mb15">
+							<p class="mb30"> <strong> <i>"We aim to deliver quality services and comprehensive car park management from small sites, to much larger facilities."</i></strong> </p>
 								<div class="col-md-4">
-									<div class="imgBorder"><img src="images/auckland-parking-a.jpg" alt="SEATTLE website template" class="img-responsive" /> </div>
+									<div class="imgBorder"><img src="images/auckland-parking-c.jpg" alt="SEATTLE website template" class="img-responsive rounded" /> </div>
 								</div>
-								<div class="col-md-8 text-center"><p class="biggie"><i>Please check again soon.</i></p></div>
+								<div class="col-md-8 text-center"><p class="biggie"><i>More info coming soon.</i></p></div>
 						</section>
+						<hr>
 						<!--end page content-->
 					</div>
 				</div>

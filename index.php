@@ -70,7 +70,7 @@
 					<div class="row">
 						<div class="span12 text-center">
 							<h1>Welcome To Downtown Parking</h1>
-							<h2 class="subTitle">100% locally and family owned, private parking operator in New Zealand. </h2>
+							<h2 class="subTitle">A 100% locally and family owned, private parking operator in New Zealand. </h2>
 
 						</div>
 					</div>

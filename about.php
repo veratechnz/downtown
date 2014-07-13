@@ -32,7 +32,7 @@
 					<?php include 'inc/sidebar.inc.php';?>
 					<!-- End Sidebar -->
 						<!-- page content-->
-						<section class="col-md-9">
+						<section class="col-md-9 boardbottom">
 							<h2>About</h2>
 							<p class="mb30"> <strong> <i>"The broad and significant experience of our executive ensures innovation, ease of use, and customer service are always at the forefront of our business."</i></strong> </p>
 							<div class="row mb15">

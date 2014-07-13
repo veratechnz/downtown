@@ -144,8 +144,8 @@ ul.iconsList li a:hover, ul.iconsList i {color:#FAA21A}
 }
 
 .btn:hover {
-    background: #fff06e;
-    border-color:#fff06e;
+    background: #1D1D1E;
+    border-color:#1D1D1E;
     color: #FFFFFF;  
 }
 
@@ -167,8 +167,8 @@ ul.iconsList li a:hover, ul.iconsList i {color:#FAA21A}
 }
 
 .btn-primary {
-	background: #FAA21A ;
-	border-bottom-color:#FAA21A;
+	background: #FAA21B;
+	border-bottom-color:#FAA21B;
 	color: #FFFFFF!important;
 }
 .btn-info {
@@ -187,8 +187,8 @@ ul.iconsList li a:hover, ul.iconsList i {color:#FAA21A}
 	color: #FFFFFF;
 }
 .btn-danger {
-	background: #DA4F49;
-	border-bottom-color:#C64741;
+	background: #939598;
+	border-bottom-color:#939598;
 	color: #FFFFFF;
 }
 .btn-link, .btn-link:active, .btn-link[disabled], .btn-link:hover {
@@ -219,7 +219,7 @@ ul.quickMenu li a:hover {color:#555;}
 ================================================== */
 
 #mainHeader{
-   background:url('../images/theme-pics/header-line.png') repeat-x bottom #fff ;
+   background-color: #fff;
    box-shadow: 0 0 10px rgba(0, 0, 0, 0.54);
 }
 
@@ -236,7 +236,6 @@ ul.quickMenu li a:hover {color:#555;}
 .navbar-default .navbar-nav > li > a.active {
 	color:#fff;
 	background:#FAA21A;
-	border-bottom: 4px solid #939597
 }
 
 .navbar-nav ul li a {color:#999;}

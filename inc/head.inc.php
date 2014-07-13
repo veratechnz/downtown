@@ -46,7 +46,7 @@
 	================================================== -->
 		<!-- globalWrapper -->
 	<div id="globalWrapper" >
-		<header class="navbar-fixed-top nav-border">			
+		<header class="navbar-fixed-top">			
 			<!-- header -->
 			<div id="mainHeader" role="banner">
 				<div class="container newwidth">
