@@ -13,7 +13,7 @@
 .boardbottom{border-bottom:1px solid #efefef; padding-bottom: 8%;}
 
 /*Mobile Buttons and Logo*/
-div.mainlogo.visible-xs.visible-sm{width:95%; margin: 0 auto; margin-bottom: 4%;}
+div.mainlogo.visible-xs.visible-sm{width:95%; margin: 0 auto; margin-bottom: 4%; max-width: 440px; min-width: 200px;}
 .dp-mobile{width: 95%;}
 
 
