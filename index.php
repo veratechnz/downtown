@@ -4,14 +4,6 @@
 <!-- Main navigation -->
 <?php include 'inc/nav.inc.php';?>
 <!-- End main navigation -->
-						</div>
-					</nav>
-				</div>
-			</div>
-		</header>
-		<!-- header -->
-		<!-- ======================================= content ======================================= -->
-		<!-- slider -->
 		<section id="homeFlex">
 			<div class="flexslider flexFullScreen" >
 				<ul class="slides sliderWrapper">
@@ -27,7 +19,7 @@
 							<div class="element1-3  hidden-xs" data-animation="fadeInRightBig">
 								<p><i>"Quality services & comprehensive car park management."</i></p>
 							</div>
-							<div class="element1-4" data-animation="fadeInRightBig"><a href="#" class="btn btn-primary">Contact Us</a></div>
+							<div class="element1-4" data-animation="fadeInRightBig"><a href="contact.php" class="btn btn-primary">Contact Us</a></div>
 						</div>
 					</li>
 					<li class="slideN1"> 
@@ -42,7 +34,7 @@
 							<div class="element1-3  hidden-xs" data-animation="fadeInRightBig">
 								<p><i>"Quality services & comprehensive car park management."</i></p>
 							</div>
-							<div class="element1-4" data-animation="fadeInRightBig"><a href="#" class="btn btn-primary">Contact Us</a></div>
+							<div class="element1-4" data-animation="fadeInRightBig"><a href="contact.php" class="btn btn-primary">Contact Us</a></div>
 						</div>
 					</li>
 					<li class="slideN2"> 
@@ -57,7 +49,7 @@
 							<div class="element1-3  hidden-xs" data-animation="fadeInRightBig">
 								<p><i>"Quality services & comprehensive car park management."</i></p>
 							</div>
-							<div class="element1-4" data-animation="fadeInRightBig"><a href="#" class="btn btn-primary">Contact Us</a></div>
+							<div class="element1-4" data-animation="fadeInRightBig"><a href="contact.php" class="btn btn-primary">Contact Us</a></div>
 						</div>
 					</li>
 				</ul>				

@@ -546,7 +546,6 @@ body {
 	-webkit-text-size-adjust: 100%;
 	margin: 0;
 	padding: 0;
-	padding-top: 51px;
 
 }
 
@@ -701,7 +700,6 @@ blockquote.pull-right {border:none;}
 
 @media(min-width:768px){
 	
-	body{padding-top: 153px;}
 	h1 {
 		font-size: 28px;
 	}
@@ -711,9 +709,7 @@ blockquote.pull-right {border:none;}
 	}
 }
 @media(min-width:992px){
-	body {
-		padding-top: 92px;
-	}
+	body {padding-top: 51px;} 
 	.paralaxText blockquote {
 		font-size: 33px;
 		line-height:33px;

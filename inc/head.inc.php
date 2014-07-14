@@ -50,12 +50,5 @@
 			<!-- header -->
 			<div id="mainHeader" role="banner">
 				<div class="container newwidth">
-					<nav class="navbar navbar-default scrollMenu" role="navigation">
+					<nav class="navbar navbar-default scrollMenu hidden-xs hidden-sm" role="navigation">
 						<div class="navbar-header">
-							<!-- responsive navigation -->
-							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-								<span class="sr-only">Toggle navigation</span>
-								<span class="icon-bar"></span>
-								<span class="icon-bar"></span>
-								<span class="icon-bar"></span>
-							</button>

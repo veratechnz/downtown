@@ -11,3 +11,24 @@
 .nav-border{border-bottom: 4px solid #1D1D1E;}
 .rounded{border-radius: 4px;}
 .boardbottom{border-bottom:1px solid #efefef; padding-bottom: 8%;}
+
+/*Mobile Buttons and Logo*/
+div.mainlogo.visible-xs.visible-sm{width:95%; margin: 0 auto; margin-bottom: 4%;}
+.dp-mobile{width: 95%;}
+
+
+/*Media Queries*/
+.logo-a a.navbar-brand img.parklogo {width: 40%;}
+.logo-b a.navbar-brand img.parklogo {width: 60%;}
+.logo-c a.navbar-brand img.parklogo {width: 80%;}
+
+.logo-a a.navbar-brand {width: 40%;}
+.logo-a a.navbar-brand {width: 60%;}
+.logo-a a.navbar-brand {width: 80%;}
+
+
+
+
+
+
+
