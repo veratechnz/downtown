@@ -15,9 +15,9 @@
 			<header class="page-header mb30">
 				<div class="container">
 					<div class="row">
-						<div class="col-sm-12">
+						<div class="col-sm-12 visible-md visible-lg">
 							<h1>About</h1>
-						<ul class="breadcrumb visible-md visible-lg">
+						<ul class="breadcrumb">
 								<li><a href="index.html">Home</a></li>
 								<li><a href="template-menu-left.html">About</a></li>
 							</ul>

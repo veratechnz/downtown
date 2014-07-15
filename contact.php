@@ -15,7 +15,7 @@
 			<header class="page-header mb30">
 				<div class="container">
 					<div class="row">
-						<div class="col-sm-12">
+						<div class="col-sm-12 visible-md visible-lg">
 							<h1>Contact</h1>
 						<ul class="breadcrumb visible-md visible-lg">
 								<li><a href="#">Home</a></li>
@@ -41,14 +41,14 @@
 								<div class="col-xs-7 col-xs-offset-1 text-center">
 									<div class="footerWidget">
 									<address>
+										<p><i class="icon-phone"></i>&nbsp;+64 09 379 0301</p>
+										<p><i class="icon-mail-alt"></i>&nbsp;<a href="mailto:info@downtownparking.co.nz">info@downtownparking.co.nz</a></p>
 										<p> <i class="icon-location"></i>&nbsp;9/70 Shortland Street, 
 										Shortland Chambers Building, 
 										Auckland 1010<br>
 										PO Box 3413
 										Shortland Street
 										Auckland 1140</P>
-										<p><i class="icon-phone"></i>&nbsp;+64 09 379 0301</p>
-										<p></p><i class="icon-mail-alt"></i>&nbsp;<a href="mailto:info@downtownparking.co.nz">info@downtownparking.co.nz</a></p>
 										</address>
 									</div>
 								</div>

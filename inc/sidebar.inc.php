@@ -1,5 +1,5 @@
 						<!-- sidebar -->
-						<aside id="sidebar" class="col-md-3">
+						<aside id="sidebar" class="col-md-3 hidden-xs">
 							<nav id="subnav">
 								<ul>
 									<li><a class="active" href="index.php">Home<i class=" icon-right-open-mini"></i></a></li>

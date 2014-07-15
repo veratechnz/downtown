@@ -4,15 +4,16 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-4">
-							<div class="col-sm-4">
+							<div class="col-sm-4 nopad">
 							<div class="footerWidget">
 								<img src="images/foot-logo.png" alt="latest Little Neko news" id="footerLogo">
 							</div>
 							</div>
-							<div class="col-sm-6">
+							<div class="col-sm-6 nopad">
 								<p><a href="http://www.little-neko.com" title="Downtown Parking, Auckland">Downtown Parking</a> is the only 100% locally and family owned, private parking operator in New Zealand.</p>
 							</div>
 						</div>
+						<hr class="visible-xs">
 						<div class="col-sm-4">
 							<div class="footerWidget">
 								<h3 class="numargin">Downtown Parking</h3>
@@ -28,6 +29,7 @@
 									</address>
 								</div>
 							</div>
+							<hr class="visible-xs">
 							<div class="col-sm-4">
 								<div class="footerWidget">
 									<h3 class="numargin">Company Info</h3>

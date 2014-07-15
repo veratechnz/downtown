@@ -11,11 +11,13 @@
 .nav-border{border-bottom: 4px solid #1D1D1E;}
 .rounded{border-radius: 4px;}
 .boardbottom{border-bottom:1px solid #efefef; padding-bottom: 8%;}
+#amber{background-color: #FAA21A; border-color: #FAA21A; color: #fff;}
+.nopad{padding: 0px;}
 
 /*Mobile Buttons and Logo*/
 div.mainlogo.visible-xs.visible-sm{width:95%; margin: 0 auto; margin-bottom: 4%; max-width: 440px; min-width: 200px;}
 .dp-mobile{width: 95%;}
-
+.btn-block.visible-xs.visible-sm{width:96%; margin:0 auto; margin-top: 1%; margin-bottom: 1%;}
 
 /*Media Queries*/
 .logo-a a.navbar-brand img.parklogo {width: 40%;}
@@ -25,6 +27,7 @@ div.mainlogo.visible-xs.visible-sm{width:95%; margin: 0 auto; margin-bottom: 4%;
 .logo-a a.navbar-brand {width: 40%;}
 .logo-a a.navbar-brand {width: 60%;}
 .logo-a a.navbar-brand {width: 80%;}
+
 
 
 
