@@ -36,7 +36,7 @@
 							<h2>Car Park Locations</h2>
 							<p class="mb30"> <strong> <i>"We aim to deliver quality services and comprehensive car park management from small sites, to much larger facilities."</i></strong> </p>
 								<div class="col-md-4">
-									<div class="imgBorder"><img src="images/auckland-parking-c.jpg" alt="SEATTLE website template" class="img-responsive" /> </div>
+									<div class="imgBorder"><img src="images/auckland-parking-c.jpg" alt="Downtown Parking Auckland" class="img-responsive" /> </div>
 								</div>
 								<div class="col-md-8 text-center"><p class="biggie"><i>More info coming soon.</i></p></div>
 						</section>
@@ -58,21 +58,8 @@
 		<!-- End footer -->
 		</div>
 		<!-- global wrapper -->
-	<!-- End Document 
-	================================================== -->
-	<script type="text/javascript" src="js-plugin/respond/respond.min.js"></script>
-	<script type="text/javascript" src="js-plugin/jquery/jquery-1.10.2.min.js"></script>
-	<script type="text/javascript" src="js-plugin/jquery-ui/jquery-ui-1.8.23.custom.min.js"></script>
-	<!-- third party plugins  -->
-	<script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
-	<script type="text/javascript" src="js-plugin/easing/jquery.easing.1.3.js"></script>
-	<!-- carousel -->
-	<script type="text/javascript" src="js-plugin/owl.carousel/owl-carousel/owl.carousel.min.js"></script>
-	<!-- pop up -->
-	<script type="text/javascript" src="js-plugin/magnific-popup/jquery.magnific-popup.min.js"></script>
-	<!-- appear -->
-	<script type="text/javascript" src="js-plugin/appear/jquery.appear.js"></script>	
-	<!-- Custom  -->
-	<script type="text/javascript" src="js/custom.js"></script>
+		<!-- All JS -->
+		<?php include 'inc/alljs.inc.php';?>
+		<!-- ALL JS -->
 </body>
 </html>

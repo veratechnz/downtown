@@ -4,16 +4,16 @@
 						<!-- Logo -->		
 						<div class="visible-xs logo-a">
 						<!-- Media queries for cross-device compatibility -->
-						<a class="navbar-brand" href="index.php"><img src="images/main-logo.png" class="parklogo" alt="SEATTLE website template"/></a>
+						<a class="navbar-brand" href="index.php"><img src="images/main-logo.png" class="parklogo" alt="Downtown Parking Auckland"/></a>
 						</div>
 						<div class="visible-sm logo-b">
-						<a class="navbar-brand" href="index.php"><img src="images/main-logo.png" class="parklogo" alt="SEATTLE website template"/></a>
+						<a class="navbar-brand" href="index.php"><img src="images/main-logo.png" class="parklogo" alt="Downtown Parking Auckland"/></a>
 						</div>
 						<div class="visible-md logo-c">
-						<a class="navbar-brand" href="index.php"><img src="images/main-logo.png" class="parklogo" alt="SEATTLE website template"/></a>
+						<a class="navbar-brand" href="index.php"><img src="images/main-logo.png" class="parklogo" alt="Downtown Parking Auckland"/></a>
 						</div>
 						<div class="visible-lg logo-d">
-						<a class="navbar-brand" href="index.php"><img src="images/main-logo.png" class="parklogo" alt="SEATTLE website template"/></a>
+						<a class="navbar-brand" href="index.php"><img src="images/main-logo.png" class="parklogo" alt="Downtown Parking Auckland"/></a>
 						</div>
 						</div>
 						<div class="collapse navbar-collapse hidden-xs" id="mainMenu">

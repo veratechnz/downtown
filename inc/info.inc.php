@@ -75,7 +75,7 @@
 							</div>
 						</div>
 						<div class="col-md-6" data-nekoanim="fadeInUp" data-nekodelay="50">
-							<h2>Reasons to choose Downtown Parking:</h2>
+							<h3>Reasons to choose Downtown Parking:</h3>
 							<p>The broad and significant experience of our executive ensures innovation, ease of use, and customer service are always at the 
 								forefront of our business.
 							</p>
