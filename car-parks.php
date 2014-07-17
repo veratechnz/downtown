@@ -36,7 +36,7 @@
 							<h2>Car Park Locations</h2>
 							<p class="mb30"> <strong> <i>"We aim to deliver quality services and comprehensive car park management from small sites, to much larger facilities."</i></strong> </p>
 								<div class="col-md-4">
-									<div class="imgBorder"><img src="images/auckland-parking-c.jpg" alt="SEATTLE website template" class="img-responsive rounded" /> </div>
+									<div class="imgBorder"><img src="images/auckland-parking-c.jpg" alt="SEATTLE website template" class="img-responsive" /> </div>
 								</div>
 								<div class="col-md-8 text-center"><p class="biggie"><i>More info coming soon.</i></p></div>
 						</section>

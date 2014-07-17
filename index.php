@@ -10,10 +10,10 @@
 					<li class="slideN0">
 						<img src="images/slider/flex/flex-slide1.jpg" alt="pic 1"/>
 						<div class="caption Left marginlefty">
-							<div class="element1-1" data-animation="fadeInRightBig">
+							<div class="element1-1 hidden-xs" data-animation="fadeInRightBig">
 								<h1>Park With Us</h1>
 							</div>
-							<div class="element1-2" data-animation="fadeInRightBig">
+							<div class="element1-2 hidden-xs" data-animation="fadeInRightBig">
 								<h2>100% New Zealand Owned</h2>
 							</div>
 							<div class="element1-3  hidden-xs" data-animation="fadeInRightBig">
@@ -25,10 +25,10 @@
 					<li class="slideN1"> 
 						<img src="images/slider/flex/flex-slide3.jpg" alt="pic 3"/>
 						<div class="caption Left marginlefty">
-							<div class="element1-1" data-animation="fadeInRightBig">
+							<div class="element1-1 hidden-xs" data-animation="fadeInRightBig">
 								<h1>Park With Us</h1>
 							</div>
-							<div class="element1-2" data-animation="fadeInRightBig">
+							<div class="element1-2 hidden-xs" data-animation="fadeInRightBig">
 								<h2>100% New Zealand Owned</h2>
 							</div>
 							<div class="element1-3  hidden-xs" data-animation="fadeInRightBig">
@@ -40,10 +40,10 @@
 					<li class="slideN2"> 
 						<img src="images/slider/flex/flex-slide2.jpg" alt="pic 2"/>
 						<div class="caption Left marginlefty">
-							<div class="element1-1" data-animation="fadeInRightBig">
+							<div class="element1-1 hidden-xs" data-animation="fadeInRightBig">
 								<h1>Park With Us</h1>
 							</div>
-							<div class="element1-2" data-animation="fadeInRightBig">
+							<div class="element1-2 hidden-xs" data-animation="fadeInRightBig">
 								<h2>100% New Zealand Owned</h2>
 							</div>
 							<div class="element1-3  hidden-xs" data-animation="fadeInRightBig">

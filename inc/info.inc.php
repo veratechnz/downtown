@@ -45,14 +45,24 @@
 								<!-- tab 3 -->
 								<div class="tab-pane fade" id="messages">
 									<div class="row">
-										<div class="col-md-6">
+										<div class="col-md-12 visible-xs">
+											<ul class="list-unstyled iconList">
+												<li>100% locally and family owned</li>
+												<li>Specialists in the Auckland market</li>
+												<li>Quality services</li>
+												<li>Innovation</li>
+												<li>Ease of use</li>
+												<li>Customer service</li>
+											</ul>
+										</div>
+										<div class="col-md-6 hidden-xs">
 											<ul class="list-unstyled iconList">
 												<li>100% locally and family owned</li>
 												<li>Specialists in the Auckland market</li>
 												<li>Quality services</li>
 											</ul>
 										</div>
-										<div class="col-md-6">
+										<div class="col-md-6 hidden-xs">
 											<ul class="list-unstyled iconList">
 												<li>Innovation</li>
 												<li>Ease of use</li>

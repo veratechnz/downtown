@@ -9,9 +9,9 @@
 	<!-- Basic Page Needs
 	================================================== -->
 	<meta charset="utf-8">
-	<title>Downtown Parking, Auckland, Parking Services</title>
-	<meta name="description" content="SEATTLE is a One Page Bootstrap 3 Premium website Template, using nice Paralax effect, HTML5, CSS3 and Twitter Bootstrap 3">
-	<meta name="author" content="Little NEKO">
+	<title>Downtown Parking, Auckland City, Parking Services, Car Park Management</title>
+	<meta name="description" content="Downtown Parking is an Auckland based 100% Kiwi owned parking providor. Downtown Parking Auckland delivers quality services and comprehensive car park management.">
+	<meta name="author" content="Downtown Parking">
 	<!-- Mobile Specific Metas
 	================================================== -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -20,7 +20,7 @@
 	<!-- Bootstrap  -->
 	<link type="text/css" rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
 	<!-- web font  -->
-	<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
 	<!-- Flex slider-->
 	<link rel="stylesheet" type="text/css" href="js-plugin/flexslider/flexslider.css">
 	<!-- Custom css -->
@@ -28,9 +28,7 @@
 	<link type="text/css" id="colors" rel="stylesheet" href="css/yellow.css">
 	<link type="text/css" rel="stylesheet" href="css/custom.css">
 	<!-- icon fonts -->
-	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 	<link type="text/css" rel="stylesheet" href="font-icons/custom-icons/css/custom-icons.css">
-	<link type="text/css" rel="stylesheet" href="font-icons/custom-icons/css/custom-icons-ie7.css">
 	<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
 	<script src="js/modernizr-2.6.1.min.js"></script>
 	<!-- Favicons

@@ -10,7 +10,7 @@
 							</div>
 							</div>
 							<div class="col-sm-6 nopad">
-								<p><a href="http://www.little-neko.com" title="Downtown Parking, Auckland">Downtown Parking</a> is the only 100% locally and family owned, private parking operator in New Zealand.</p>
+								<p><a href="mailto:info@downtownparking.co.nz" title="Downtown Parking, Auckland">Downtown Parking</a> is the only 100% locally and family owned, private parking operator in New Zealand.</p>
 							</div>
 						</div>
 						<hr class="visible-xs">
@@ -47,7 +47,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-12">
-								<p>Copyright © 2014 <a href="http://www.little-neko.com" target="blank">Downtown Parking</a> / All rights reserved.</p>
+								<p>Copyright © <?php echo date('Y'); ?> <a href="http://www.veratech.co.nz" target="blank">&nbsp;Veratech</a> / All rights reserved.</p>
 							</div>
 						</div>
 					</div>
