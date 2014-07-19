@@ -40,7 +40,7 @@ if(isset($_POST['submit'])) {
 	//If there is no error, send the email
 	if(!isset($hasError)) {
 		$emailTo = 'info@downtownparking.co.nz'; // Put your own email address here
-		$body = "Name: $name \n\nEmail: $email \n\nPhone Number: $phone \n\nSubject: $subject \n\nComments:\n $comments";
+		$body = "Name: $name \n\nEmail: $email \n\nPhone Number: $phone \n\nComments:\n $comments";
 		$headers = 'From: Downtown Parking Web Site < info@downtownparking.co.nz >' . "\r\n" . 'Reply-To: ' . $email;
 
 		mail($emailTo, $subject, $body, $headers);
@@ -138,7 +138,6 @@ if(isset($_POST['submit'])) {
 
 						            <div class="actions">
 						              <input type="submit" value="Send Your Message" name="submit" id="submitButton" class="btn btn-primary" title="Click here to submit your message!" />
-						              <input type="reset" value="Clear Form" class="btn btn-danger" title="Remove all the data from the form." />
 						            </div>
 						          </fieldset>
 						        </form>

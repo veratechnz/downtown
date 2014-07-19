@@ -34,13 +34,13 @@
 						<!-- page content-->
 						<section class="col-md-9 boardbottom">
 							<h2>About</h2>
-							<p class="mb30"> <strong> <i>"The broad and significant experience of our executive ensures innovation, ease of use, and customer service are always at the forefront of our business."</i></strong> </p>
+							<p class="mb30"> <strong>"The broad and significant experience of our executive ensures innovation, ease of use, and customer service are always at the forefront of our business."</strong> </p>
 							<div class="row mb15">
 								<div class="col-md-4">
 									<div class="imgBorder"><img src="images/auckland-parking-a.jpg" alt="Downtown Parking" class="img-responsive" /> </div>
 								</div>
 								<div class="col-md-8">
-									<h3>A local and family owner parking operator:</h3>
+									<h3>A local and family owned parking operator:</h3>
 									<p>Downtown Parking is the only 100% locally and family owned, private parking operator in New Zealand. Specialists in the Auckland market, we aim to deliver quality services and comprehensive car park management from small sites, to much larger facilities.</p><p> The broad and significant experience of our executive ensures innovation, ease of use, and customer service are always at the forefront of our business.</p>
 						</section>
 						<!--end page content-->

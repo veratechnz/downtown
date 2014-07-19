@@ -17,7 +17,7 @@
 								<h2>100% New Zealand Owned</h2>
 							</div>
 							<div class="element1-3  hidden-xs" data-animation="fadeInRightBig">
-								<p><i>"Quality services & comprehensive car park management."</i></p>
+								<p>"Quality services & comprehensive car park management."</p>
 							</div>
 							<div class="element1-4 hidden-xs" data-animation="fadeInRightBig"><a href="contact.php" class="btn btn-primary">Contact Us</a></div>
 						</div>
@@ -32,7 +32,7 @@
 								<h2>100% New Zealand Owned</h2>
 							</div>
 							<div class="element1-3  hidden-xs" data-animation="fadeInRightBig">
-								<p><i>"Quality services & comprehensive car park management."</i></p>
+								<p>"Quality services & comprehensive car park management."</p>
 							</div>
 							<div class="element1-4 hidden-xs" data-animation="fadeInRightBig"><a href="contact.php" class="btn btn-primary">Contact Us</a></div>
 						</div>
@@ -47,7 +47,7 @@
 								<h2>100% New Zealand Owned</h2>
 							</div>
 							<div class="element1-3  hidden-xs" data-animation="fadeInRightBig">
-								<p><i>"Quality services & comprehensive car park management."</i></p>
+								<p>"Quality services & comprehensive car park management."</p>
 							</div>
 							<div class="element1-4 hidden-xs" data-animation="fadeInRightBig"><a href="contact.php" class="btn btn-primary">Contact Us</a></div>
 						</div>

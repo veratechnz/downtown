@@ -34,7 +34,7 @@
 						<!-- page content-->
 						<section class="col-md-9 boardbottom">
 							<h2>Car Park Locations</h2>
-							<p class="mb30"> <strong> <i>"We aim to deliver quality services and comprehensive car park management from small sites, to much larger facilities."</i></strong> </p>
+							<p class="mb30"> <strong>"We aim to deliver quality services and comprehensive car park management from small sites, to much larger facilities."</strong> </p>
 								<div class="col-md-4">
 									<div class="imgBorder"><img src="images/auckland-parking-c.jpg" alt="Downtown Parking Auckland" class="img-responsive" /> </div>
 								</div>

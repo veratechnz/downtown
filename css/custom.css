@@ -12,6 +12,7 @@
 .rounded{border-radius: 4px;}
 .boardbottom{border-bottom:1px solid #efefef; padding-bottom: 8%;}
 #amber{background-color: #FAA21A; border-color: #FAA21A; color: #fff;}
+nav#subnav ul li a#amberb{color: #FAA21A;}
 .nopad{padding: 0px;}
 
 /*Mobile Buttons and Logo*/
